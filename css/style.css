@@ -1,0 +1,52 @@
+
+
+body{
+  background-color: black;
+  background-size:cover;
+}
+
+.buffer {
+
+}
+
+.header {
+  font-size:4.8em;
+  color:silver;
+  font-family:Montserrat:100;
+  padding:10px
+}
+
+.intro {
+  family:Montserrat:100;
+  font-size:3.2em;
+}
+
+.section {
+  background-color:black;
+  font-size:1.5em;
+  padding:1em;
+    font-family:Montserrat:100;
+  
+}
+
+.space {
+  opacity:1;
+}
+
+.hoverable{
+  color:#726565 ;
+  transition: color 1.2s;
+}
+
+.hovered {
+  color: lightgray;
+  transition: color 1.2s;
+}
+
+.icon{
+  font-size:1em;
+  display: block;
+  margin-right: auto;
+  margin-left: auto;
+}
+}
