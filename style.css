@@ -5,19 +5,16 @@ body{
   background-size:cover;
 }
 
-.buffer {
-
-}
 
 .header {
   font-size:4.8em;
   color:silver;
-  font-family:Montserrat:100;
+  font-family:Montserrat;
   padding:10px
 }
 
 .intro {
-  family:Montserrat:100;
+  font-family:Montserrat;
   font-size:3.2em;
 }
 
@@ -25,7 +22,7 @@ body{
   background-color:black;
   font-size:1.5em;
   padding:1em;
-    font-family:Montserrat:100;
+    font-family:Montserrat;
   
 }
 
@@ -49,4 +46,4 @@ body{
   margin-right: auto;
   margin-left: auto;
 }
-}
+
